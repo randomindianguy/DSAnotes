@@ -1,0 +1,20 @@
+# Resources for your prep
+
+## A collection of questions to practice:
+
+1. [seanprashad.com/leetcode-patterns](http://seanprashad.com/leetcode-patterns/)
+2. [Striver’s SDE Sheet – Top Coding Interview Problems (takeuforward.org)](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+3. [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/Placement-Preparation-Guide-48ee514eb8da464aa4c97b367e4f7790)
+4. [Problems - LeetCode](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1)
+
+## If you have absolutely no idea where to start from:
+
+[Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide)
+
+## If you have no coding knowledge whatsoever:
+
+[Master the Essentials of Programming today!](https://upgradcampus.com/courses/essentials-of-programming/)  (I work here, sorry! 😆)
+
+I think this list is comprehensive enough for any skill level. So, let me know if this helps you! 
+
+Also let me know if you’d like to see something else added here! :)
